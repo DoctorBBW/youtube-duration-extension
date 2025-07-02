@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_appName__",
+  "default_locale": "en",
+  "version": "18.0",
+  "description": "__MSG_appDesc__",
+  "permissions": [
+    "tabs",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://*.youtube.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "__MSG_appName__"
+  },
+  "icons": {
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "_locales/en/messages.json",
+        "_locales/ru/messages.json",
+        "_locales/ua/messages.json"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ]
+}

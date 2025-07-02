@@ -1,0 +1,38 @@
+{
+  "appName": {
+    "message": "YouTube Duration Memory",
+    "description": "The title of the extension."
+  },
+  "appDesc": {
+    "message": "Запам'ятовує тривалість відвіданих відео та показує їх у зручному списку.",
+    "description": "The description of the extension."
+  },
+  "refreshButtonText": {
+    "message": "Оновити час з активних вкладок",
+    "description": "Text on the refresh button."
+  },
+  "statusLoading": {
+    "message": "Завантаження...",
+    "description": "Status text when the popup is loading."
+  },
+  "statusTabsFound": {
+    "message": "Знайдено вкладок: $1",
+    "description": "Status text showing how many tabs were found. $1 is a placeholder for the number."
+  },
+  "statusNoTabs": {
+    "message": "Вкладки YouTube не знайдено.",
+    "description": "Status text when no YouTube tabs are open."
+  },
+  "statusUpdating": {
+    "message": "Оновлення...",
+    "description": "Status text when refreshing data."
+  },
+  "statusUpdated": {
+    "message": "Оновлено $1 з $2 вкладок.",
+    "description": "Status text after refreshing. $1 is updated count, $2 is total count."
+  },
+  "durationUnknown": {
+    "message": "[??:??]",
+    "description": "Placeholder for unknown duration."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "appName": {
+    "message": "YouTube Duration Memory",
+    "description": "The title of the extension."
+  },
+  "appDesc": {
+    "message": "Remembers the duration of visited videos and displays them in a convenient list.",
+    "description": "The description of the extension."
+  },
+  "refreshButtonText": {
+    "message": "Refresh times from active tabs",
+    "description": "Text on the refresh button."
+  },
+  "statusLoading": {
+    "message": "Loading...",
+    "description": "Status text when the popup is loading."
+  },
+  "statusTabsFound": {
+    "message": "Tabs found: $1",
+    "description": "Status text showing how many tabs were found. $1 is a placeholder for the number."
+  },
+  "statusNoTabs": {
+    "message": "No YouTube tabs found.",
+    "description": "Status text when no YouTube tabs are open."
+  },
+  "statusUpdating": {
+    "message": "Refreshing...",
+    "description": "Status text when refreshing data."
+  },
+  "statusUpdated": {
+    "message": "Updated $1 of $2 tabs.",
+    "description": "Status text after refreshing. $1 is updated count, $2 is total count."
+  },
+  "durationUnknown": {
+    "message": "[??:??]",
+    "description": "Placeholder for unknown duration."
+  }
+}
