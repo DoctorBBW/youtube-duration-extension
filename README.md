@@ -2,7 +2,7 @@
 
 A Google Chrome extension that helps you manage your YouTube tabs by remembering and displaying video durations in a convenient popup menu.
 
-![Extension Screenshot](URL_TO_YOUR_SCREENSHOT)
+![Extension Screenshot]([photo_2025-07-03_00-17-25](https://github.com/user-attachments/assets/bf591324-ddae-4373-9f8a-f7734a30afdd))
 
 ## The Problem
 Modern browsers "discard" or "put to sleep" background tabs to save memory. This makes it impossible to know the duration of a video on an inactive tab without clicking on it, leading to tab chaos when managing multiple videos of various lengths.
